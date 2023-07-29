@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
+Hi! I go by Emmanuel Yeboah or my native name Kwaku Adu. I enjoy graphic-designing, film-making, and playing badminton and tennis.
+You can find me online at all these places:
+
+- 🏠 [Personal website and blog](https://www.andrewheiss.com/)
 <!--
-**kwakuemma1/kwakuemma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍👩‍👧‍👦 [Family blog](https://www.blah_blah_blah/)
+- 🐦 [Twitter](https://twitter.com/blah_blah_blah)
+- 🎥 [YouTube](https://www.youtube.com/blah_blah_blah)
+- 💼 [LinkedIn](https://www.linkedin.com/in/blah_blah_blah)
 
 Here are some ideas to get you started:
 
