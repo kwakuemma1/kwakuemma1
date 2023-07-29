@@ -3,7 +3,7 @@
 Hi! I go by Emmanuel Yeboah or my native name Kwaku Adu. I enjoy graphic-designing, film-making, and playing badminton and tennis.
 You can find me online at all these places:
 
-- 🏠 [Personal website and blog](https://www.andrewheiss.com/)
+- 🏠 [Personal website and blog](https://kwakuemma1.github.io/KwakuAduBlog/posts/summer-experience_2023/)
 <!--
 - 👨‍👩‍👧‍👦 [Family blog](https://www.blah_blah_blah/)
 - 🐦 [Twitter](https://twitter.com/blah_blah_blah)
