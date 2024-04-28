@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋🏿
 
 Hi! I go by Emmanuel Yeboah or my native name Kwaku Adu. I enjoy graphic-designing, film-making, and playing badminton and tennis.
 You can find me online at all these places:
